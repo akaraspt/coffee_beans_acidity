@@ -1,4 +1,4 @@
-# Estimating Acidity from Roasted Coffee Beans Images UsingEfficientNet
+# Estimating Acidity from Roasted Coffee Beans Images Using EfficientNet
 
 Code for the model in the paper XXX.
 
