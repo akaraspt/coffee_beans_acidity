@@ -1,34 +1,14 @@
 # Estimating Acidity from Roasted Coffee Beans Images Using EfficientNet
 
-Code for the model in the paper XXX.
-
-This work has been accepted for publication in XXX.
+Code for the model that can directly estimate the acidity levels from roasted coffee bean images.
 
 ## Environment ##
 
 The following setup has been used to reproduce this work:
 
 - Ubuntu 18.04
-- CUDA toolkit XX and CuDNN vXX
-- Python XXX
-- tensorflow
-- ...
-
-## Citation
-If you find this useful, please cite our work as follows:
-
-    @article{petch2021,
-        title = {XXX},
-        author = {Sajjacholapunt, Petch and Supratak, Akara and Tuarob, Suppawong},
-        journal = {XXX},
-        year = {2021},
-        month = {XX},
-        volume = {XX}, 
-        number = {XX}, 
-        pages = {XX}, 
-        doi = {XX}, 
-        ISSN = {XX}, 
-    }
+- CUDA toolkit 11.0 and CuDNN v8
+- Python 3.7
 
 ## Licence
 - For academic and non-commercial use only
